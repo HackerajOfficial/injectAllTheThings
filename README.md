@@ -38,10 +38,6 @@ Note: All techniques have been tested successfully in Windows 10 1903 x64 with `
 
 **For more information visit**: http://deniable.org/misc/inject-all-the-things 
 
-### Issues
-
-This has been barely tested. Report any issues. Error handling is crap. Always pass the full path to the DLL. 
-
 ### Credits
 
 [Reflective DLL injection](https://github.com/stephenfewer/ReflectiveDLLInjection) - Stephen Fewer
