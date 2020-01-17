@@ -34,7 +34,9 @@ Needless to say, to be on the safe side, always use injectAllTheThings_32.exe to
 
 Compile for 32 and 64 bits, with our without debugging and have fun.
 
-**For more information visit**: http://blog.deniable.org/blog/2017/07/16/inject-all-the-things/
+Note: All techniques have been tested successfully in Windows 10 1903 x64 with `notepad.exe`. This has been used for Endpoint Security testing by me, and a few other people I know, as a PoC. Don't ask for help if you are injecting somewhere else and your target is crashing. I'm pretty sure you can debug the issue yourself if you want to re-use the code in your own tools.
+
+**For more information visit**: http://deniable.org/misc/inject-all-the-things 
 
 ### Issues
 
